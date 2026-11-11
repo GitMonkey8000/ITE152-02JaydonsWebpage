@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Jaydon's Page</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" rel="stylesheet"">
+	<link href="icoImage.ico" type="image/icon" rel="icon">
+
+</head>
+<body>
+
+
+
+<header>
+  <img src="Banner.jpg" alt="Banner">
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href=""sample.html">Home</a></li>
+      <li><a href="https://www.arsenal.com/feature/20-greatest-moments-at-emirates-stadium-aiwge1a4USvo" target="_blank">Arsenals greatest moments></a></li>
+      <li><a href="#">Toky</a></li>
+    </ul>
+  </nav>
+ 
+  <article>
+    <h1>&#128557; Interesting ideas &#x1F62D; </h1>
+    <p>Hi, My name is Jaydon Owusu-Ansah, This is my webpage. I like self educating myself</p>
+    <p>Lets explore awesome and captivating fun! .</p>
+  </article>
+</section>
+
+<footer>
+  <p>Jaydon Owusu-Ansah &#x1F48E; <a href="mailto:Jo77192@email.vccs.edu">Jo77192@email.vccs.edu</a> &#x1F48E;  @Jo77192</p>
+</footer>
+
+</body>
+</html>
