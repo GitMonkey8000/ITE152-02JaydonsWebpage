@@ -1,4 +1,4 @@
-* {
+```css
 * {
     box-sizing: border-box;
 }
@@ -26,7 +26,7 @@ header img {
     margin: 0 auto;
 }
 
-/* Main section - makes both columns equal height */
+/* Main section */
 section {
     display: flex;
     align-items: stretch;
@@ -54,7 +54,7 @@ nav a {
 
 /* Article box */
 article {
-    padding: 20.10px;
+    padding: 20px;
     width: 70%;
     background-color: #D3D3D3;
     min-height: 700px;
@@ -84,3 +84,4 @@ footer a {
         min-height: auto;
     }
 }
+```
