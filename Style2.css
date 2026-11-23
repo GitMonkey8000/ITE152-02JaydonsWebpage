@@ -1,0 +1,86 @@
+* {
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: #000000;
+}
+
+/* Website Banner */
+header {
+    background-color: #8B0000;
+    padding: 0;
+    text-align: center;
+    line-height: 0;
+}
+
+header img {
+    display: block;
+    width: 100%;
+    max-height: 160px;
+    height: auto;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+/* Main section - makes both columns equal height */
+section {
+    display: flex;
+    align-items: stretch;
+    background-color: #D3D3D3;
+}
+
+/* Navigation box */
+nav {
+    width: 30%;
+    min-height: 700px;
+    background: #E9967A;
+    padding: 20px;
+    color: #000000;
+}
+
+/* Navigation links */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav a {
+    color: #000000;
+}
+
+/* Article box */
+article {
+    padding: 20.10px;
+    width: 70%;
+    background-color: #D3D3D3;
+    min-height: 700px;
+    color: #000000;
+}
+
+/* Footer */
+footer {
+    background-color: #DC143C;
+    padding: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+footer a {
+    color: #000000;
+}
+
+/* Responsive layout */
+@media (max-width: 600px) {
+    section {
+        display: block;
+    }
+
+    nav, article {
+        width: 100%;
+        min-height: auto;
+    }
+}
